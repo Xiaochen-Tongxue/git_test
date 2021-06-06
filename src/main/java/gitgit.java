@@ -8,6 +8,6 @@ public class gitgit {
         System.out.println("master,git!");
         System.out.println("hot-fix,git");
         System.out.println("push-github");
-
+        System.out.println("pull-github");
     }
 }
